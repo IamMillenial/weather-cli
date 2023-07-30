@@ -10,4 +10,6 @@
 
 `npm start`
 
-` npm start -- -s moscow` // Сохранение города
+`npm start -- -s moscow` // Сохранение города
+
+`npm start -- -h` // HELP menu
