@@ -1,11 +1,11 @@
 # Weather-cli ⛅
 
 ---
-<a href="https://github.com/IamMillenial/weather-cli" target="_blank" style="margin-right: 25px;">
-    <img src="link-icons/github-icon.svg" width="48">
+<a href="https://github.com/IamMillenial/weather-cli" target="_blank" style="margin-right: 35px;">
+    <img src="https://github.com/IamMillenial/weather-cli/blob/main/link-icons/github-icon.svg" width="48">
 </a>
 <a href="https://www.npmjs.com/package/weather-cli-demo-from-alisha" target="_blank">
-    <img src="link-icons/npm-icon.svg" width="48" >
+    <img src="https://github.com/IamMillenial/weather-cli/blob/main/link-icons/npm-icon.svg" width="48" >
 </a>
 
 ---
